@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ashik E Rasul
 - 👀 I’m interested in Learning Based Control of Autonomous Systems
-- 💞️ I’m looking to collaborate on projects that involves autonomous systems.
+- I’m looking to collaborate on projects that involves autonomous systems.
 - 📫 How to reach me: ashik.rasul@outlook.com
 - 😄 Pronouns: He/Him
 
